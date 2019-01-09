@@ -16,6 +16,7 @@ class HomePageState extends State<HomePage> {
           type: BottomNavigationBarType.fixed,
           currentIndex: _bottomNavigationIndex,
           items: [
+
             BottomNavigationBarItem(
                 icon: Icon(Icons.home), title: Text('Home')),
             BottomNavigationBarItem(
