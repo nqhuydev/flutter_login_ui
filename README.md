@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Screenshot
 
-https://raw.githubusercontent.com/nqhuydev/flutter_login_ui/master/screenshot_login.png
+https://raw.githubusercontent.com/nqhuydev/flutter_login_ui/master/screenshot/screenshot_login.png
 
 ## Getting Started
 
