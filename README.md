@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+## Screenshot
+
+https://raw.githubusercontent.com/nqhuydev/flutter_login_ui/master/screenshot_login.png
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
